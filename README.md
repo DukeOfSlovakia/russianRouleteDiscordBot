@@ -3,7 +3,7 @@ just as the title says
 
 Not working rn, error when looping to next player
 
-# HOW TO USE
+## HOW TO USE
 
 Install and change the settings in the .env to your discord group, the specific channel, and id
 > If you don't now how to get the id, look up how to make a discord bot.
@@ -13,7 +13,7 @@ and run.
 
 When everything works, the bot will say hi, and the bot can be used
 
-# How do I get it to do anything?
+## How do I get it to do anything?
 
 `!start`
 
