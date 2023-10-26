@@ -1,7 +1,6 @@
 from discord.ext import commands
 from random import randint
 from time import sleep
-from flask import Flask
 from dotenv import load_dotenv
 import discord
 import threading
@@ -11,7 +10,7 @@ load_dotenv('.env')
 
 key = os.getenv('KEY')
 
-CHANNEL = 1122405068487000154  # channel bot talks in
+CHANNEL = os.getenv('CHANNEL')
 
 intents = discord.Intents().default()
 intents.message_content = True #set's basic permissions
