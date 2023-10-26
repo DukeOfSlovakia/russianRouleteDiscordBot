@@ -5,8 +5,8 @@ Not working rn, error when looping to next player
 
 ## HOW TO USE
 
-Install and change the settings in the .env to your discord group, the specific channel, and id
-> If you don't now how to get the id, look up how to make a discord bot.
+Install all the files and change the settings in the .env to the specific channel and id.
+> If you don't now how to get the id or how to get the channel id, look up how to make a discord bot.
 
 Put it on your local device ( i don't have a server running rn, servers cost mony :C )
 and run. 
